@@ -1,0 +1,10 @@
+
+Bluetooth KEYWORD1
+Kp          KEYWORD1
+Ki          KEYWORD2
+Kd          KEYWORD3
+Go          KEYWORD4
+Stop        KEYWORD5
+Calibra     KEYWORD6
+Contagem    KEYWORD7
+debugger    KEYWORD8
